@@ -147,4 +147,4 @@ MIT © [liutao773680119-cmyk](https://github.com/liutao773680119-cmyk)
 
 <img src="./assets/donate.png" width="300" alt="支付宝收款码">
 
-> 有问题欢迎提 [Issue](https://github.com/liutao773680119-cmyk/claude-skill-热点/issues)
+> 有问题欢迎提 [Issue](https://github.com/liutao773680119-cmyk/claude-hot-trends/issues)
