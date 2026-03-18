@@ -12,7 +12,7 @@
 ## 🚀 快速安装
 
 ```bash
-npx skills add liutao773680119-cmyk/claude-skill-热点
+npx skills add liutao773680119-cmyk/claude-hot-trends
 ```
 
 或手动复制 `SKILL.md` 到：
