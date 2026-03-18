@@ -1,4 +1,4 @@
-# 🔥 热点 Skill — Claude Code 多平台热点抓取
+# 这是一款用Claude code用一句话获取各大平台热点和新闻的skill，支持小红书/微博/知乎/B站/X等16+平台
 
 > 使用 Chrome DevTools MCP 直接拦截页面 API 响应，一句话获取 16+ 平台热点数据。
 
